@@ -39,6 +39,10 @@ menu:
       weight: 10
       params:
         type: search
+    - identifier: ai_nav
+      name: AI导航
+      url: https://nav.hubtoday.app/
+      weight: 0
     - identifier: documentation
       name: AI资讯日报
       pageRef: /
