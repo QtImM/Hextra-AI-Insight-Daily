@@ -13,50 +13,50 @@ Hexi 2077's AI News Hub
 {{< /hextra/hero-headline >}}
 
 <div style="margin-top: 2rem; margin-bottom: 4rem; display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center;">
-  {{< hextra/hero-badge link="/en/2026-03/2026-03-07" >}}Read Today's News 🔥{{< /hextra/hero-badge >}}
-  {{< hextra/hero-badge link="/en/blog/weekly" >}}Dive into the AI Weekly 📚{{< /hextra/hero-badge >}}
+  {{< hextra/hero-badge link="/en/2026-03/2026-03-07" >}}Read Today's News 🗞️{{< /hextra/hero-badge >}}
+  {{< hextra/hero-badge link="/en/blog/weekly" >}}Dive into the AI Weekly 🧠{{< /hextra/hero-badge >}}
   {{< hextra/hero-badge link="https://github.com/justlovemaki" >}}Business & Partnership Inquiries 🤝{{< /hextra/hero-badge >}}
 </div>
 
 ---
 
 {{< callout type="important" emoji="💡" >}}
-  **Our philosophy**: We don't aim to publish the most information, only the most accurate, timely, and useful information.
+  **Our philosophy**: We're not here to publish *all* the info, just the most accurate, timely, and genuinely useful stuff.
 {{< /callout >}}
 
 ## Our Core Values ✨
 
 {{< cards cols="3" >}}
-  {{< card title="Signal Over Noise" icon="newspaper" subtitle="Signal Over Noise: We distill what truly matters from thousands of daily updates, saving you hours of searching." >}}
-  {{< card title="Contextual Insight" icon="translate" subtitle="Contextual Insight: We go beyond translation to deliver sharp analysis and meaningful context around frontier AI developments." >}}
-  {{< card title="Practical Focus" icon="sparkles" subtitle="Practical Focus: We track how AI tools are applied in the real world, helping you spot genuine opportunities in the productivity revolution." >}}
+  {{< card title="Signal Over Noise" icon="newspaper" subtitle="Signal Over Noise: We cut through the chatter, distilling what *really* matters from thousands of daily updates. Think of all the hours you'll save!" >}}
+  {{< card title="Contextual Insight" icon="translate" subtitle="Contextual Insight: We don't just translate; we deliver sharp analysis and give you the real lowdown on cutting-edge AI developments." >}}
+  {{< card title="Practical Focus" icon="sparkles" subtitle="Practical Focus: We keep tabs on how AI tools are *actually* being used in the wild, helping you snag genuine opportunities in the productivity revolution." >}}
 {{< /cards >}}
 
-## Fresh off the Press! 📰
+## Fresh off the Press! 🚀
 
 {{< cards cols="3" >}}
 <!-- LATEST_6_CARDS_START -->
-{{< card link="/en/2026-03/2026-03-18" title="AI News Daily 2026/03/18" subtitle="'GPT-5.4 lightweight model and Midjourney V8 test release: Inference" icon="calendar" >}}
+{{< card link="/en/2026-03/2026-03-19" title="AI News Daily 2026/03/19" subtitle="Tencent Hunyuan 3.0 set for April release, MiniMax M2.7 All-Rounder model" icon="calendar" >}}
+  {{< card link="/en/2026-03/2026-03-18" title="AI News Daily 2026/03/18" subtitle="'GPT-5.4 lightweight model and Midjourney V8 test release: Inference" icon="calendar" >}}
   {{< card link="/en/2026-03/2026-03-17" title="AI News Daily 2026/03/17" subtitle="NVIDIA launches GB300 desktop supercomputer, 748GB memory capable of" icon="calendar" >}}
   {{< card link="/en/2026-03/2026-03-16" title="AI News Daily 2026/03/16" subtitle="Microsoft, NVIDIA, OpenAI Release New Products Simultaneously; Billion-Dollar" icon="calendar" >}}
   {{< card link="/en/2026-03/2026-03-15" title="AI News Daily 2026/03/15" subtitle="Claude's million-token context fully open, supporting 600 images. 360" icon="calendar" >}}
   {{< card link="/en/2026-03/2026-03-14" title="AI News Daily 2026/03/14" subtitle="Gemini mobile automates cross-app tasks, Claude plugins enable cross-application" icon="calendar" >}}
-  {{< card link="/en/2026-03/2026-03-13" title="AI News Daily 2026/03/13" subtitle="Aishi Technology announces C-round funding and PixVerse R1; Tencent E'xia" icon="calendar" >}}
 <!-- LATEST_6_CARDS_END -->
 {{< /cards >}}
 
-## Your Reading Journey 🚀
+## Your Reading Journey 🗺️
 
 {{% steps %}}
 
 ### 1. Build a Big-Picture View
-The [AI Weekly](/en/blog/weekly/) is your ideal starting point for newcomers! It's designed to help you quickly grasp crucial industry shifts and avoid getting lost in fragmented information. Get ready to speed up your learning!
+New to AI? The [AI Weekly](/en/blog/weekly/) is your perfect launchpad! It's crafted to help you quickly grasp crucial industry shifts and keep you from getting swamped by fragmented info. Get ready to level up your learning, fast!
 
 ### 2. Stay in Daily Sync
-The [AI Daily Archive](/en/2026-03/2026-03-18) is your go-to for staying on the cutting edge! Just 5 minutes a day will keep you perfectly aligned with the global AI pulse. Stay sharp! ⚡
+Wanna stay razor-sharp on AI? The [AI Daily Archive](/en/2026-03/2026-03-19) is your daily fix! Just 5 minutes a day keeps you totally synced with the global AI pulse. Stay sharp! 🎯
 
 ### 3. Explore Deeper Practice
-The [Blog](/en/blog/) is where you should dive in for deeper practice! It offers structured guides on AI tools, workflows, and boosting your productivity. Unleash your inner tech wizard! ✨
+Ready to geek out? The [Blog](/en/blog/) is your go-to for deeper dives and hands-on practice! It's packed with structured guides on AI tools, workflows, and supercharging your productivity. Unleash your inner tech wizard! ✨
 
 {{% /steps %}}
 
@@ -75,6 +75,6 @@ The [Blog](/en/blog/) is where you should dive in for deeper practice! It offers
 ## Let's Connect! 🤝
 
 {{< cards cols="2" >}}
-  {{< card link="https://github.com/justlovemaki" title="Business Contact" subtitle="Business Contact: For partnerships, resource exchange, or feedback." icon="mail" >}}
-  {{< card link="/en/blog/index.xml" title="RSS Subscription" subtitle="RSS Subscription: Subscribe via RSS to receive the latest updates as soon as they are published." icon="globe-alt" >}}
+  {{< card link="https://github.com/justlovemaki" title="Business Contact" subtitle="Business Contact: Got a partnership idea, looking to swap resources, or just want to give us feedback? Reach out!" icon="mail" >}}
+  {{< card link="/en/blog/index.xml" title="RSS Subscription" subtitle="RSS Subscription: Want the freshest updates the moment they drop? Hook up with our RSS feed!" icon="globe-alt" >}}
 {{< /cards >}}
