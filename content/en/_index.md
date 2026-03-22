@@ -13,16 +13,16 @@ Hexi 2077's AI News Hub
 {{< /hextra/hero-headline >}}
 
 <div style="margin-top: 2rem; margin-bottom: 4rem; display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center;">
-  {{< hextra/hero-badge link="/en/2026-03/2026-03-07" >}}Catch the Latest News 🔥{{< /hextra/hero-badge >}}
+  {{< hextra/hero-badge link="/en/2026-03/2026-03-07" >}}Catch the Latest News 📰{{< /hextra/hero-badge >}}
   {{< hextra/hero-badge link="/en/blog/weekly" >}}Dive into the AI Weekly 💡{{< /hextra/hero-badge >}}
-  {{< hextra/hero-badge link="https://github.com/justlovemaki" >}}Got Business or Partnership Ideas? 📧{{< /hextra/hero-badge >}}
+  {{< hextra/hero-badge link="https://github.com/justlovemaki" >}}Got Business or Partnership Ideas? 🤝{{< /hextra/hero-badge >}}
 </div>
 
 ---
 
 {{< callout type="important" emoji="✨" >}}
   **Our philosophy**: We're not here to publish *all* the info, just the most accurate, timely, and genuinely useful stuff.
-{{< /callout >}}
+{{< /hextra/callout >}}
 
 ## Our Core Values ✨
 
@@ -36,12 +36,12 @@ Hexi 2077's AI News Hub
 
 {{< cards cols="3" >}}
 <!-- LATEST_6_CARDS_START -->
-{{< card link="/en/2026-03/2026-03-21" title="AI News Daily 2026/03/21" subtitle="'OpenClaw: 320k stars, 90k daily deployments. NVIDIA introduces AI token" icon="calendar" >}}
+{{< card link="/en/2026-03/2026-03-22" title="AI News Daily 2026/03/22" subtitle="Jensen Huang is betting big on Anthropic, predicting a trillion-dollar" icon="calendar" >}}
+  {{< card link="/en/2026-03/2026-03-21" title="AI News Daily 2026/03/21" subtitle="'OpenClaw: 320k stars, 90k daily deployments. NVIDIA introduces AI token" icon="calendar" >}}
   {{< card link="/en/2026-03/2026-03-20" title="AI News Daily 2026/03/20" subtitle="Qwen3.5 Max math capability global third, Cursor releases Composer 2," icon="calendar" >}}
   {{< card link="/en/2026-03/2026-03-19" title="AI News Daily 2026/03/19" subtitle="Tencent Hunyuan 3.0 set for April release, MiniMax M2.7 All-Rounder model" icon="calendar" >}}
   {{< card link="/en/2026-03/2026-03-18" title="AI News Daily 2026/03/18" subtitle="'GPT-5.4 lightweight model and Midjourney V8 test release: Inference" icon="calendar" >}}
   {{< card link="/en/2026-03/2026-03-17" title="AI News Daily 2026/03/17" subtitle="NVIDIA launches GB300 desktop supercomputer, 748GB memory capable of" icon="calendar" >}}
-  {{< card link="/en/2026-03/2026-03-16" title="AI News Daily 2026/03/16" subtitle="Microsoft, NVIDIA, OpenAI Release New Products Simultaneously; Billion-Dollar" icon="calendar" >}}
 <!-- LATEST_6_CARDS_END -->
 {{< /cards >}}
 
@@ -53,10 +53,10 @@ Hexi 2077's AI News Hub
 The [AI Weekly](/en/blog/weekly/) is your perfect launchpad for newcomers to AI! It's crafted to help you quickly grasp crucial industry shifts and keep you from getting swamped by fragmented info. Get ready to level up your learning, fast!
 
 ### 2. Stay in Daily Sync
-The [AI Daily Archive](/en/2026-03/2026-03-21) is your daily fix to stay razor-sharp on AI! Just 5 minutes a day keeps you totally in sync with the global AI pulse. Stay sharp! 🚀
+The [AI Daily Archive](/en/2026-03/2026-03-22) is your daily fix to stay razor-sharp on AI! Just 5 minutes a day keeps you totally in sync with the global AI pulse. Stay sharp! ⚡
 
 ### 3. Explore Deeper Practice
-The [Blog](/en/blog/) is your go-to for deeper dives and hands-on practice for those ready to geek out! It's packed with structured guides on AI tools, workflows, and supercharging your productivity. Unleash your inner tech wizard! 🪄
+The [Blog](/en/blog/) is your go-to for deeper dives and hands-on practice for those ready to geek out! It's packed with structured guides on AI tools, workflows, and supercharging your productivity. Unleash your inner tech wizard! 🧙‍♂️
 
 {{% /steps %}}
 
